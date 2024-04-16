@@ -1,3 +1,6 @@
+Practice Exercises:
+
+
 Create a new folder called “software101
 On the window to the right,
 click on the File menu and select the “New Folder” option, as shown in the image below. Name the folder “software101”.
@@ -35,6 +38,19 @@ ________________________________________________________________________________
 Pallavi Rai
 
 
+
+Edit the source code and re-run the program
+
+
+1- Replace the source code with the code shown below:
+
+message= "Welcome to the world of programming!"
+print (message)
+
+2. Run the program in the terminal using the command below:
+python3.11 welcome.py
+
+Welcome to the world of programming!
 
 
 
